@@ -23,7 +23,7 @@ def option_manager():
     elif option == 5:
         delete_by_username()
     elif option == 6:
-        print(" ★ Gracias por usar Mongo Crud Cli")
+        print(" ★ Gracias por usar User Crud Cli")
         return False
     return True
 
